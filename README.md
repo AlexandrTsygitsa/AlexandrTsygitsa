@@ -15,4 +15,3 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-440873?style=for-the-badge&logo=LeetCode&logoColor=EBB218)](https://leetcode.com/Alex_SNK/)
 [![linkedin](https://img.shields.io/badge/-linkedin-440873?style=for-the-badge&logo=linkedin&logoColor=51B8FF)](https://www.linkedin.com/feed/)
 [![Telegram](https://img.shields.io/badge/-Telegram-440873?style=for-the-badge&logo=Telegram&logoColor=6EE7FF)](https://web.telegram.org/k/@Alex96_SNK)
-[![hh.ru](https://img.s
